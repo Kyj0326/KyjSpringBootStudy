@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+</head>
+<body>
+<h1 th:text="${name}">name</h1>
+Last-Modified 헤더를 보고 304 응답을 보냄.(캐싱으로 빨리처리한다는거임)
+	ResourceHttpRequestHandler가 처리함.
+</body>
+</html>

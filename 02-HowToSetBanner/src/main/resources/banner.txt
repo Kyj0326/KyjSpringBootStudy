@@ -1,0 +1,4 @@
+============================
+hooooooooooooooooooooooooooo ${spring-boot.version} Banner Variable 검색해보세요~~~ 
+============================ 
+배너 바꾸고싶을때~
